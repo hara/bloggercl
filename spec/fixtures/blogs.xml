@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:gd="http://schemas.google.com/g/2005" gd:etag="W/&quot;XXXXXXXXXXXXXXXXXXXXXXX.&quot;">
+  <id>tag:blogger.com,1999:user-99999999999.blogs</id>
+  <updated>2011-01-27T06:38:39.432Z</updated>
+  <title type="text">bloggercl's Blogs</title>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://www.blogger.com/feeds/99999999999999999999/blogs"/>
+  <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/99999999999999999999/blogs"/>
+  <link rel="alternate" type="text/html" href="http://www.blogger.com/profile/99999999999999999999"/>
+  <author>
+    <name>bloggercl</name>
+    <email>noreply@blogger.com</email>
+  </author>
+  <generator version="7.00" uri="http://www.blogger.com">Blogger</generator>
+  <openSearch:totalResults>2</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <entry gd:etag="W/&quot;XXXXXXXXXXXXXXXXXXXXXXX.&quot;">
+    <id>tag:blogger.com,1999:user-99999999999.blog-9999999999999999999</id>
+    <published>2010-08-02T23:09:54.446+09:00</published>
+    <updated>2011-01-25T02:09:59.226+09:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Ruby"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Blogger"/>
+    <title type="text">bloggercl test blog 2</title>
+    <summary type="html">second blog for testing bloggercl</summary>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/99999999999999999999/blogs/9999999999999999999"/>
+    <link rel="alternate" type="text/html" href="http://bloggercl-test-blog-2.blogspot.com/"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://bloggercl-test-blog-2.blogspot.com/feeds/posts/default"/>
+    <link rel="http://schemas.google.com/g/2005#post" type="application/atom+xml" href="http://www.blogger.com/feeds/9999999999999999999/posts/default"/>
+    <link rel="http://schemas.google.com/blogger/2008#template" type="application/atom+xml" href="http://www.blogger.com/feeds/9999999999999999999/template"/>
+    <link rel="http://schemas.google.com/blogger/2008#settings" type="application/atom+xml" href="http://www.blogger.com/feeds/9999999999999999999/settings"/>
+    <author>
+      <name>bloggercl</name>
+      <email>noreply@blogger.com</email>
+    </author>
+    <gd:extendedProperty name="IS_PUBLIC_BLOG" value="true"/>
+    <gd:extendedProperty name="PICASAWEB_ALBUM_ID" value="9999999999999999999"/>
+  </entry>
+  <entry gd:etag="W/&quot;XXXXXXXXXXXXXXXXXXXXXXX.&quot;">
+    <id>tag:blogger.com,1999:user-99999999999.blog-8888888888888888888</id>
+    <published>2010-08-02T23:09:54.446+09:00</published>
+    <updated>2011-01-25T02:09:59.226+09:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Ruby"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="Blogger"/>
+    <title type="text">bloggercl test blog 1</title>
+    <summary type="html">first blog for testing bloggercl</summary>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/88888888888888888888/blogs/8888888888888888888"/>
+    <link rel="alternate" type="text/html" href="http://bloggercl-test-blog-2.blogspot.com/"/>
+    <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://bloggercl-test-blog-2.blogspot.com/feeds/posts/default"/>
+    <link rel="http://schemas.google.com/g/2005#post" type="application/atom+xml" href="http://www.blogger.com/feeds/8888888888888888888/posts/default"/>
+    <link rel="http://schemas.google.com/blogger/2008#template" type="application/atom+xml" href="http://www.blogger.com/feeds/8888888888888888888/template"/>
+    <link rel="http://schemas.google.com/blogger/2008#settings" type="application/atom+xml" href="http://www.blogger.com/feeds/8888888888888888888/settings"/>
+    <author>
+      <name>bloggercl</name>
+      <email>noreply@blogger.com</email>
+    </author>
+    <gd:extendedProperty name="IS_PUBLIC_BLOG" value="true"/>
+    <gd:extendedProperty name="PICASAWEB_ALBUM_ID" value="8888888888888888888"/>
+  </entry>
+</feed>

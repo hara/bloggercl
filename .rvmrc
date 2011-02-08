@@ -1,0 +1,10 @@
+rvm 1.9.2@bloggercl --create
+
+if ! command -v bundle ; then
+  gem install bundler
+fi
+
+if [ -f "$0".local ]; then
+  source "$0".local
+fi
+

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:georss="http://www.georss.org/georss" xmlns:thr="http://purl.org/syndication/thread/1.0" xmlns:gd="http://schemas.google.com/g/2005" gd:etag="W/&quot;XXXXXXXXXXXXXXXXXXXXXXX.&quot;">
+  <id>tag:blogger.com,1999:blog-9999999999999999999</id>
+  <updated>2011-01-25T02:09:59.226+09:00</updated>
+  <title type="text">bloggercl test blog 2</title>
+  <subtitle type="html">second blog for testing bloggercl</subtitle>
+  <link rel="http://schemas.google.com/g/2005#feed" type="application/atom+xml" href="http://bloggercl-test-blog-2.blogspot.com/feeds/posts/default"/>
+  <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/9999999999999999999/posts/default"/>
+  <link rel="http://schemas.google.com/g/2005#post" type="application/atom+xml" href="http://www.blogger.com/feeds/9999999999999999999/posts/default"/>
+  <link rel="alternate" type="text/html" href="http://bloggercl-test-blog-2.blogspot.com/"/>
+  <author>
+    <name>bloggercl</name>
+    <email>noreply@blogger.com</email>
+  </author>
+  <generator version="7.00" uri="http://www.blogger.com">Blogger</generator>
+  <openSearch:totalResults>2</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+  <entry gd:etag="W/&quot;XXXXXXXXXXXXXXXXXXXXXXX.&quot;">
+    <id>tag:blogger.com,1999:blog-9999999999999999999.post-9999999999999999999</id>
+    <published>2011-01-25T01:45:00.003+09:00</published>
+    <updated>2011-01-25T02:08:30.390+09:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="tag1"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="tag2"/>
+    <title type="text">Second post</title>
+    <content type="html">&lt;h1 id=&quot;a-first-level-header&quot;&gt;A First Level Header&lt;/h1&gt;
+
+&lt;h2 id=&quot;a-second-level-header&quot;&gt;A Second Level Header&lt;/h2&gt;
+
+&lt;p&gt;Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.&lt;/p&gt;
+
+&lt;a name=&apos;more&apos;&gt;&lt;/a&gt;
+
+&lt;p&gt;The quick brown fox jumped over the lazy
+dog’s back.&lt;/p&gt;
+
+&lt;h3 id=&quot;header-3&quot;&gt;Header 3&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a blockquote.&lt;/p&gt;
+
+  &lt;p&gt;This is the second paragraph in the blockquote.&lt;/p&gt;
+
+  &lt;h2 id=&quot;this-is-an-h2-in-a-blockquote&quot;&gt;This is an H2 in a blockquote&lt;/h2&gt;
+&lt;/blockquote&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="http://bloggercl-test-blog-2.blogspot.com/feeds/9999999999999999999/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://bloggercl-test-blog-2.blogspot.com/2011/01/second-post.html#comment-form" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/9999999999999999999/posts/default/9999999999999999999"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/9999999999999999999/posts/default/9999999999999999999"/>
+    <link rel="alternate" type="text/html" href="http://bloggercl-test-blog-2.blogspot.com/2011/01/second-post.html" title="Second post"/>
+    <author>
+      <name>bloggercl</name>
+      <email>noreply@blogger.com</email>
+      <gd:extendedProperty xmlns:gd="http://schemas.google.com/g/2005" name="OpenSocialUserId" value="99999999999999999999"/>
+    </author>
+    <thr:total>0</thr:total>
+  </entry>
+  <entry gd:etag="W/&quot;XXXXXXXXXXXXXXXXXXXXXXX.&quot;">
+    <id>tag:blogger.com,1999:blog-9999999999999999999.post-9999999999999999999</id>
+    <published>2011-01-23T23:29:00.002+09:00</published>
+    <updated>2011-01-25T02:09:59.244+09:00</updated>
+    <category scheme="http://www.blogger.com/atom/ns#" term="tag1"/>
+    <category scheme="http://www.blogger.com/atom/ns#" term="tag2"/>
+    <title type="text">First post</title>
+    <content type="html">&lt;h1 id=&quot;a-first-level-header&quot;&gt;A First Level Header&lt;/h1&gt;
+
+&lt;h2 id=&quot;a-second-level-header&quot;&gt;A Second Level Header&lt;/h2&gt;
+
+&lt;p&gt;Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.&lt;/p&gt;
+
+&lt;a name=&apos;more&apos;&gt;&lt;/a&gt;
+
+&lt;p&gt;The quick brown fox jumped over the lazy
+dog’s back.&lt;/p&gt;
+
+&lt;h3 id=&quot;header-3&quot;&gt;Header 3&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is a blockquote.&lt;/p&gt;
+
+  &lt;p&gt;This is the second paragraph in the blockquote.&lt;/p&gt;
+
+  &lt;h2 id=&quot;this-is-an-h2-in-a-blockquote&quot;&gt;This is an H2 in a blockquote&lt;/h2&gt;
+&lt;/blockquote&gt;</content>
+    <link rel="replies" type="application/atom+xml" href="http://bloggercl-test-blog-2.blogspot.com/feeds/9999999999999999999/comments/default" title="Post Comments"/>
+    <link rel="replies" type="text/html" href="http://bloggercl-test-blog-2.blogspot.com/2011/01/first-post.html#comment-form" title="0 Comments"/>
+    <link rel="edit" type="application/atom+xml" href="http://www.blogger.com/feeds/9999999999999999999/posts/default/9999999999999999999"/>
+    <link rel="self" type="application/atom+xml" href="http://www.blogger.com/feeds/9999999999999999999/posts/default/9999999999999999999"/>
+    <link rel="alternate" type="text/html" href="http://bloggercl-test-blog-2.blogspot.com/2011/01/first-post.html" title="First post"/>
+    <author>
+      <name>bloggercl</name>
+      <email>noreply@blogger.com</email>
+      <gd:extendedProperty xmlns:gd="http://schemas.google.com/g/2005" name="OpenSocialUserId" value="99999999999999999999"/>
+    </author>
+    <thr:total>0</thr:total>
+  </entry>
+</feed>
