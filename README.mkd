@@ -1,0 +1,42 @@
+# bloggercl
+
+bloggercl is a blogger client script.
+
+## Create a post
+
+Create post.mkd as below.
+
+	---
+	title: Title here
+	tags: tag1
+	...
+	Write your article here.
+	You can use Markdown syntax.
+
+And execute post command.
+
+	$ bloggercl post post.mkd
+
+## Update posts
+
+Create post.mkd as below.
+
+	---
+	title: Title here
+	tags: tag1
+	url: http://www.blogger.com/feeds/...
+	...
+	Write your article here.
+	You can use Markdown syntax.
+
+And execute post command.
+
+	$ bloggercl post post.mkd
+
+## Search posts
+
+	$ bloggercl search
+
+## Get the post
+
+	$ bloggercl get http://www.blogger.com/feeds/...
